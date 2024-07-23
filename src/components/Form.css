@@ -1,0 +1,60 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+form {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
+form button {
+    padding: 10px;
+    background: rgba(67, 134, 221);
+    color: rgb(241, 245, 248);
+    border: none;
+    
+}
+
+
+form .text {
+    padding: 10px;
+    width: 180px;
+    outline: none;
+    background-color:rgb(255, 255, 255) ;
+    
+}
+
+
+form .valor {
+    padding: 10px;
+    width: 50px;
+    outline: none;
+    color: black;
+    margin-left: 5px;
+    background-color:rgb(255, 255, 255) ;   
+}
+
+
+h1 {
+    margin-left: 60px;
+}
+
+
+.conteudo{
+    width: 15rem;
+}
+
+
+table{
+    width: 18rem;
+    text-align:left;
+}

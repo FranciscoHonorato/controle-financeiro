@@ -1,0 +1,27 @@
+
+.content{
+    width: auto;
+
+}
+
+button{ 
+    color: aliceblue;
+}
+
+.edit{
+    background: rgb(206, 88, 15);
+}
+.positivo{
+    color: rgb(84, 230, 84);
+}
+.negativo{
+    color: rgb(247, 104, 104);
+}
+
+td{
+    border-bottom:  1px solid rgb(154, 154, 206);; 
+}
+
+.btn{
+border-bottom: none;
+}
