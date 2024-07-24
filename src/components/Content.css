@@ -5,7 +5,7 @@
 }
 
 button{ 
-    color: aliceblue;
+    color: rgb(13, 19, 25);
 }
 
 .edit{
@@ -23,5 +23,6 @@ td{
 }
 
 .btn{
+    margin-left: 2rem;
 border-bottom: none;
 }
