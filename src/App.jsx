@@ -79,7 +79,7 @@ function App() {
     }
 
     if (content.valor) {
-      setList([...list, content])
+      setList([content, ...list])
       setText('')
       setValor('')
 

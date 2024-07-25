@@ -1,28 +1,15 @@
 
 .content{
-    width: auto;
+    width: 100%;
 
 }
 
-button{ 
-    color: rgb(13, 19, 25);
-}
 
-.edit{
-    background: rgb(206, 88, 15);
-}
 .positivo{
-    color: rgb(84, 230, 84);
+    color: green;
 }
 .negativo{
-    color: rgb(247, 104, 104);
+    color:red;
 }
 
-td{
-    border-bottom:  1px solid rgb(154, 154, 206);; 
-}
 
-.btn{
-    margin-left: 2rem;
-border-bottom: none;
-}

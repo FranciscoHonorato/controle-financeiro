@@ -18,11 +18,10 @@ function Total({ total, entrada, saida, abrirModal }) {
             </div>
 
             <fieldset className="total">
-
                 <div>
                     Entrada
                     <div>
-                        <h4 >
+                        <h4 className='entrada'>
                             R$ {entrada.toLocaleString('pt-br', { minimumFractionDigits: 2 })}
                         </h4>
                     </div>
@@ -31,7 +30,7 @@ function Total({ total, entrada, saida, abrirModal }) {
                 <div>
                     Saida
                     <div>
-                        <h4 style={{ color: 'rgb(247, 104, 104)' }}>
+                        <h4 className='saida'>
                             R$ {saida.toLocaleString('pt-br', { minimumFractionDigits: 2 })}
                         </h4>
                     </div>

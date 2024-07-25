@@ -19,12 +19,13 @@ form {
 }
 
 
-form button {
-    padding: 10px;
+form .btn {
+   margin-left: 10rem;
     background: rgba(67, 134, 221);
     color: rgb(241, 245, 248);
     border: none;
-    width: 13rem;
+    width: 6rem;
+   
     
 }
 
@@ -38,24 +39,11 @@ form .text {
 }
 
 
-form .valor {
-    padding: 10px;
-    width: 50px;
-    outline: none;
-    color: black;
-    margin-left: 5px;
-    background-color:rgb(255, 255, 255) ;   
-}
 
 
-h1 {
-    margin-left: 60px;
-}
 
 
-.conteudo{
-    width: 18rem;
-}
+
 
 
 

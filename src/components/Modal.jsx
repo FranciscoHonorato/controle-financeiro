@@ -9,9 +9,9 @@ function Modal({ open, children, onClose }) {
     <>
       <div className='bgModal' >
         <div className='modal'>
-          <button className='btn' onClick={onClose}> X </button>
-          <p>obs: entrada sinal +  | saida sinal - </p> 
+          <button className='btn_close' onClick={onClose}> X </button>
           {children}
+          <p>obs: entrada sinal +  / saida sinal - </p> 
         </div>
       </div>
     </>

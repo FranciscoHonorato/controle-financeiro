@@ -1,4 +1,6 @@
 .todo{
+    padding-left: 2rem;
+    padding-right: 2rem;
     text-align: center;
     width: 22rem;
     display: flex;
@@ -11,5 +13,5 @@
 }
 
 legend h2{
-    color: rgb(12, 137, 60);
+    color:green;
 }
