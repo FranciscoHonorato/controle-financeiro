@@ -1,7 +1,7 @@
 
 .content{
     width: 100%;
-
+    
 }
 
 
@@ -13,3 +13,6 @@
 }
 
 
+#td-size{
+    width: 35%;
+}

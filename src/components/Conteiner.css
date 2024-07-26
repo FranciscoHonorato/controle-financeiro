@@ -2,12 +2,12 @@
     padding-left: 2rem;
     padding-right: 2rem;
     text-align: center;
-    width: 22rem;
+    width: 25rem;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    min-height: 540px;
+    min-height:32rem;
     border: 1px solid rgb(154, 154, 206);
    
 }

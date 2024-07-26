@@ -1,7 +1,3 @@
-/*https://www.geeksforgeeks.org/expense-tracker-using-react/
-https://medium.com/@bomber.marek/how-to-use-dialog-in-react-easy-modals-tooltips-81e44d570c8a
-https://www.freecodecamp.org/portuguese/news/como-passar-dados-e-eventos-entre-componentes-em-react/
-*/
 
 import { useState, useEffect } from 'react'
 import Form from './components/Form'
